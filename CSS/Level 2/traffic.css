@@ -1,0 +1,26 @@
+#outer{
+    height: 350px;
+    width: 150px;
+    background-color: rgb(34, 34, 34);
+}
+#inner1{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 50%;
+    background-color: red;
+}
+#inner2{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+#inner3{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 50%;
+    background-color: green;
+}
